@@ -2,7 +2,7 @@
 #### This is a website that exploratively displays the beauty of going outside and exploring the wild and unknown.
 #### By **{Priscilla }
 ## Description
-[This is a beautiful collage of videos and photos on the travelling experiences that I have experienced.It features renowned sites of attraction in Dubai.Dubai was an experience I would relieve any day any time.I hope you enjoy as much as I did]
+[This is a beautiful collage of videos and photos based on the travelling experiences that I have experienced. It features renowned sites of attraction in Dubai. Dubai was an experience I would relieve  that experience any day any time. I hope you enjoy as much as I did.
 # Project setup
 This is a great place to be in.
 It is easy and will be well understood.
@@ -28,4 +28,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-# paige url:https://github.com/mbuthiapriscilla5-ship-it/Photography-.git
+
+# paige url:https://github.com/priscillambuthia-coder/PHOTOGRAPHY-WEBSITE.git
