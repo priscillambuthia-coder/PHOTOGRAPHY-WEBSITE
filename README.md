@@ -28,7 +28,7 @@ You can have a look of the setup through this link; https://priscillambuthia-cod
 
 ### Installation guide
 -Download or clone the respository
--Open index2.html in your browser
+-Open index.html in your browser
 
 #### License
 *{MIT License}*
@@ -68,3 +68,4 @@ Installation
  **By Priscilla Mbuthia**
 
  LINK:  https://priscillambuthia-coder.github.io/PHOTOGRAPHY-WEBSITE/
+
