@@ -39,6 +39,9 @@ a:link{
 a:visited{
     color: darkslategrey;
 }
+a:hover{
+    color: aquamarine;
+}
 li{
     display: inline;
     padding: 170px;
