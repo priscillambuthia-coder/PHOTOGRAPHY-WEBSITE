@@ -1,12 +1,36 @@
-# Photography Website
-#### This is a website that exploratively displays the beauty of going outside and exploring the wild and unknown.
-#### By **{Priscilla }
-## Description
-[This is a beautiful collage of videos and photos based on the travelling experiences that I have experienced. It features renowned sites of attraction in Dubai. Dubai was an experience I would relieve  that experience any day any time. I hope you enjoy as much as I did.
-# Project setup
-This is a great place to be in.
-It is easy and will be well understood.
-## License
+## Photography Website
+ This is a website that exploratively displays the beauty of going outside and exploring the wild and unknown.
+
+#### Author {Priscilla }
+
+### Description
+[This is a beautiful collage of videos and photos on the travelling experiences that I have experienced.It features renowned sites of attraction in Dubai.Dubai was an experience I would relieve any day any time.I hope you enjoy as much as I did].It displays the Museum of the Future,Desert Safari,Dubai Mall,City tour,Sharjar Museum of Civilization,House of hype and Ferrari world.
+#### Features
+The project includes;image gallery,interactive design,well styled good looking layout.
+#### Technologies used
+    -HTML
+    -CSS
+    
+#### Aesethetic
+It features:
+    -Dubai Mall
+    -Museum of the Future
+    -Desert Safari
+    -Ferrari world
+    -Sharjar Museum of Civilization
+    -House of hype
+    -City Tour
+
+
+#### Project Setup
+### Live Site
+You can have a look of the setup through this link; https://priscillambuthia-coder.github.io/PHOTOGRAPHY-WEBSITE/
+
+### Installation guide
+-Download or clone the respository
+-Open index.html in your browser
+
+#### License
 *{MIT License}*
 
 Copyright (c) [2026] -Priscilla
@@ -29,4 +53,17 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-# paige url:https://github.com/priscillambuthia-coder/PHOTOGRAPHY-WEBSITE.git
+
+#### AUTHOR
+Priscilla Mbuthia
+
+This website consists of photos taken by Priscilla.The images are displayed in the order 
+of their experiences.The aesethetic is giving travelling and expoloring.
+Technologies used were HTML and CSS
+
+Installation
+ 1.Download the webpage for gh- pages
+ 2.Run the webpage
+
+ **By Priscilla Mbuthia**
+ LINK:  https://priscillambuthia-coder.github.io/PHOTOGRAPHY-WEBSITE/
