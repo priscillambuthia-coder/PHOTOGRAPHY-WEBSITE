@@ -65,7 +65,7 @@ Installation
  1.Download the webpage for gh- pages
  2.Run the webpage
 
- **By Priscilla Mbuthia**
+ Author: Priscilla Mbuthia
 
  LINK:  https://priscillambuthia-coder.github.io/PHOTOGRAPHY-WEBSITE/
 
